@@ -2,7 +2,7 @@ body{
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
+  background: #240009;
 }
 
 header{
@@ -31,4 +31,25 @@ nav a{
 nav a:hover{
   background-color: #dddddd;
   color: black;
+}
+
+
+.container{
+  padding: 20px
+}
+
+.sessao{
+  background-color: #ffdbdb;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+footer{
+  background-color: #47000b;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  width: 100%;
 }
